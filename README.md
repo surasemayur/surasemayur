@@ -32,11 +32,7 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/74658d7dfe877eb34e79423ede7cccd060529e2c2fe16655406502f611820404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d2532333737374242342e737667"><img src="https://camo.githubusercontent.com/74658d7dfe877eb34e79423ede7cccd060529e2c2fe16655406502f611820404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d2532333737374242342e737667" alt="PHP" data-canonical-src="https://img.shields.io/badge/PHP-%23777BB4.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fc81a737e3540b8525e3228a9cf763794affa0114db6c5c60cc7c8c5b34aa3b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646549676e697465722d4546343232333f6c6f676f3d636f646569676e69746572266c6f676f436f6c6f723d666666"><img src="https://camo.githubusercontent.com/fc81a737e3540b8525e3228a9cf763794affa0114db6c5c60cc7c8c5b34aa3b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646549676e697465722d4546343232333f6c6f676f3d636f646569676e69746572266c6f676f436f6c6f723d666666" alt="PHP" data-canonical-src="https://img.shields.io/badge/PHP-%23777BB4.svg" style="max-width: 100%;"></a>
 </p>-->
-
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+ 
 ```javascript
 const mayur = {
   pronouns: "he",
